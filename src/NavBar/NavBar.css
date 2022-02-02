@@ -1,0 +1,20 @@
+.navbar {
+  background-color: lightskyblue;
+  height: 10vh;
+  width: 100%;
+  display: flex;
+  margin: 0;
+  font-size: large;
+}
+.custom {
+  height: 5vh;
+  background-color: green;
+  color: white;
+  cursor: pointer;
+  margin-top: 15px;
+  margin-left: 40vw;
+}
+
+.navbar h2 {
+  margin-left: 30vw;
+}
